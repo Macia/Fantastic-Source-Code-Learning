@@ -13,6 +13,7 @@ Table of Contents
       * [Others](#Others)
     * [Graph-Mining-Technology](#Graph-Mining-Technology)
     * [Survey](#Survey)
+    * [NLP-based-Source-Code-Learning](#NLP-based-Source-Code-Learning)
      
 
 ## Papers
@@ -76,6 +77,12 @@ Table of Contents
   * Allamanis M, Barr E T, Devanbu P, et al. A survey of machine learning for big code and naturalness[J]. ACM Computing Surveys (CSUR), 2018, 51(4): 81.
 
 * ### NLP-based Source Code Learning
+  * Nguyen T D, Nguyen A T, Phan H D, et al. Exploring API embedding for API usages and applications[C]//2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE). IEEE, 2017: 438-449.
+  * Nguyen A, Rigby P, Nguyen T, et al. Statistical translation of English texts to API code templates[C]//2018 IEEE International Conference on Software Maintenance and Evolution (ICSME). IEEE, 2018: 194-205.
+  * Alon U, Zilberstein M, Levy O, et al. code2vec: Learning distributed representations of code[J]. Proceedings of the ACM on Programming Languages, 2019, 3(POPL): 40.
+  * To-be-continued
+
+* ### Source Code Learning
   * #### APIs and Code Mining
   
   * #### Source Code Analysis and Language modeling
