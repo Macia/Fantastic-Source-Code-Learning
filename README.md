@@ -15,6 +15,7 @@ Table of Contents
     * [Survey](#Survey)
     * [NLP-based-Source-Code-Learning](#NLP-based-Source-Code-Learning)
     * [Deep-Learning-based-Source-Code-Learning](#Deep-Learning-based-Source-Code-Learning)
+    * [Frequent-Sequence-based-Source-Code-Learning](#Frequent-Sequence-based-Source-Code-Learning)
      
 
 ## Papers
@@ -88,7 +89,14 @@ Table of Contents
   * Rabinovich M, Stern M, Klein D. Abstract syntax networks for code generation and semantic parsing[J]. arXiv preprint arXiv:1704.07535, 2017.
   * To-be-continued
 
-* ### Source Code Learning
-  * #### APIs and Code Mining
-  
-  * #### Source Code Analysis and Language modeling
+* ### Frequent-Sequence Based Source Code Learning
+  * #### API Usage Mining 
+    * Holmes R, Murphy G C. Using structural context to recommend source code examples[C]//Proceedings. 27th International Conference on Software Engineering, 2005. ICSE 2005. IEEE, 2005: 117-125.
+    * Li Z, Zhou Y. PR-Miner: automatically extracting implicit programming rules and detecting violations in large software code[C]//ACM SIGSOFT Software Engineering Notes. ACM, 2005, 30(5): 306-315.
+    * Holmes R, Murphy G C. Using structural context to recommend source code examples[C]//Proceedings. 27th International Conference on Software Engineering, 2005. ICSE 2005. IEEE, 2005: 117-125.
+    * Stylos J, Myers B A. Mica: A web-search tool for finding api components and examples[C]//Visual Languages and Human-Centric Computing (VL/HCC'06). IEEE, 2006: 195-202.
+    * Holmes R, Walker R J, Murphy G C. Approximate structural context matching: An approach to recommend relevant examples[J]. IEEE Transactions on Software Engineering, 2006, 32(12): 952-970.
+    * Zhong H, Xie T, Zhang L, et al. MAPO: Mining and recommending API usage patterns[C]//European Conference on Object-Oriented Programming. Springer, Berlin, Heidelberg, 2009: 318-343.
+    * Bruch M, Monperrus M, Mezini M. Learning from examples to improve code completion systems[C]//Proceedings of the the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering. ACM, 2009: 213-222.
+    * Wang L, Fang L, Wang L, et al. APIExample: An effective web search based usage example recommendation system for Java APIs[C]//Proceedings of the 2011 26th IEEE/ACM International Conference on Automated Software Engineering. IEEE Computer Society, 2011: 592-595.
+    * Sun H, Zheng Z, Chen J, et al. Personalized open api recommendation in clouds via item-based collaborative filtering[C]//2011 Fourth IEEE International Conference on Utility and Cloud Computing. IEEE, 2011: 237-244.
