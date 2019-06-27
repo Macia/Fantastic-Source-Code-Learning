@@ -56,24 +56,24 @@ Table of Contents
     * Wang S, Lo D, Jiang L. Autoquery: automatic construction of dependency queries for code search[J]. Automated Software Engineering, 2016, 23(3): 393-425.
 
 * ### Graph Mining Technology
- * Saul Z M, Filkov V, Devanbu P, et al. Recommending random walks[C]//Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering. ACM, 2007: 15-24.
- * Ahn Y Y, Bagrow J P, Lehmann S. Link communities reveal multiscale complexity in networks[J]. nature, 2010, 466(7307): 761.
- * Pan L, Wang C, Xie J, et al. Detecting link communities based on local approach[C]//2011 IEEE 23rd International Conference on Tools with Artificial Intelligence. IEEE, 2011: 884-886.
- * Zhu F, Qu Q, Lo D, et al. Mining top-k large structural patterns in a massive network[J]. Proceedings of the VLDB Endowment, 2011, 4(11): 807-818.
- * Li Y, Tarlow D, Brockschmidt M, et al. Gated graph sequence neural networks[J]. arXiv preprint arXiv:1511.05493, 2015.
- * Johnson D D. Learning graphical state transitions[J]. 2016.
+  * Saul Z M, Filkov V, Devanbu P, et al. Recommending random walks[C]//Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering. ACM, 2007: 15-24.
+  * Ahn Y Y, Bagrow J P, Lehmann S. Link communities reveal multiscale complexity in networks[J]. nature, 2010, 466(7307): 761.
+  * Pan L, Wang C, Xie J, et al. Detecting link communities based on local approach[C]//2011 IEEE 23rd International Conference on Tools with Artificial Intelligence. IEEE, 2011: 884-886.
+  * Zhu F, Qu Q, Lo D, et al. Mining top-k large structural patterns in a massive network[J]. Proceedings of the VLDB Endowment, 2011, 4(11): 807-818.
+  * Li Y, Tarlow D, Brockschmidt M, et al. Gated graph sequence neural networks[J]. arXiv preprint arXiv:1511.05493, 2015.
+  * Johnson D D. Learning graphical state transitions[J]. 2016.
  
 * ### Survey
- * Liu Y. Graph-based learning models for information retrieval: A survey[J]. 2006.
- * Binkley D. Source code analysis: A road map[C]//2007 Future of Software Engineering. IEEE Computer Society, 2007: 104-119.
- * Bruch M, Bodden E, Monperrus M, et al. IDE 2.0: collective intelligence in software development[C]//Proceedings of the FSE/SDP workshop on Future of software engineering research. ACM, 2010: 53-58.
- * Robillard M P, Bodden E, Kawrykow D, et al. Automated API property inference techniques[J]. IEEE Transactions on Software Engineering, 2012, 39(5): 613-637.
- * Hindle A, Barr E T, Su Z, et al. On the naturalness of software[C]//2012 34th International Conference on Software Engineering (ICSE). IEEE, 2012: 837-847.
- * Mens K, Lozano A. Source code-based recommendation systems[M]//Recommendation Systems in Software Engineering. Springer, Berlin, Heidelberg, 2014: 93-130.
- * Robillard M, Walker R, Zimmermann T. Recommendation systems for software engineering[J]. IEEE software, 2009, 27(4): 80-86.
- * Gasparic M, Janes A. What recommendation systems for software engineering recommend: A systematic literature review[J]. Journal of Systems and Software, 2016, 113: 101-113.
- * Nguyen A T. Exploring regularities in software with statistical models and their applications[J]. 2016.
- * Allamanis M, Barr E T, Devanbu P, et al. A survey of machine learning for big code and naturalness[J]. ACM Computing Surveys (CSUR), 2018, 51(4): 81.
+  * Liu Y. Graph-based learning models for information retrieval: A survey[J]. 2006.
+  * Binkley D. Source code analysis: A road map[C]//2007 Future of Software Engineering. IEEE Computer Society, 2007: 104-119.
+  * Bruch M, Bodden E, Monperrus M, et al. IDE 2.0: collective intelligence in software development[C]//Proceedings of the FSE/SDP workshop on Future of software engineering research. ACM, 2010: 53-58.
+  * Robillard M P, Bodden E, Kawrykow D, et al. Automated API property inference techniques[J]. IEEE Transactions on Software Engineering, 2012, 39(5): 613-637.
+  * Hindle A, Barr E T, Su Z, et al. On the naturalness of software[C]//2012 34th International Conference on Software Engineering (ICSE). IEEE, 2012: 837-847.
+  * Mens K, Lozano A. Source code-based recommendation systems[M]//Recommendation Systems in Software Engineering. Springer, Berlin, Heidelberg, 2014: 93-130.
+  * Robillard M, Walker R, Zimmermann T. Recommendation systems for software engineering[J]. IEEE software, 2009, 27(4): 80-86.
+  * Gasparic M, Janes A. What recommendation systems for software engineering recommend: A systematic literature review[J]. Journal of Systems and Software, 2016, 113: 101-113.
+  * Nguyen A T. Exploring regularities in software with statistical models and their applications[J]. 2016.
+  * Allamanis M, Barr E T, Devanbu P, et al. A survey of machine learning for big code and naturalness[J]. ACM Computing Surveys (CSUR), 2018, 51(4): 81.
 
 * ### NLP-based Source Code Learning
   * #### APIs and Code Mining
