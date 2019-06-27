@@ -11,8 +11,8 @@ Table of Contents
       * [Source-Code-Analysis-and-Language-Modeling](#Source-Code-Analysis-and-Language-Modeling)
       * [API-Navigation](#API-Navigation)
       * [Others](#Others)
-    * [Graph-Mining-Collection](#Graph-Mining-Collection)
-      * [Program-Synthesis-and-Induction](#Program-Synthesis-and-Induction)
+    * [Graph-Mining-Technology](#Graph-Mining-Technology)
+     
 
 ## Papers
 * ### API Learning Obstacles
@@ -53,6 +53,14 @@ Table of Contents
     * Wang X, Lo D, Cheng J, et al. Matching dependence-related queries in the system dependence graph[C]//Proceedings of the IEEE/ACM international conference on Automated software engineering. ACM, 2010: 457-466.
     * Sun C, Khoo S C, Zhang S J. Graph-based detection of library API imitations[C]//2011 27th IEEE International Conference on Software Maintenance (ICSM). IEEE, 2011: 183-192.
     * Wang S, Lo D, Jiang L. Autoquery: automatic construction of dependency queries for code search[J]. Automated Software Engineering, 2016, 23(3): 393-425.
+
+* ### Graph Mining Technology
+ * Saul Z M, Filkov V, Devanbu P, et al. Recommending random walks[C]//Proceedings of the the 6th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering. ACM, 2007: 15-24.
+ * Ahn Y Y, Bagrow J P, Lehmann S. Link communities reveal multiscale complexity in networks[J]. nature, 2010, 466(7307): 761.
+ * Pan L, Wang C, Xie J, et al. Detecting link communities based on local approach[C]//2011 IEEE 23rd International Conference on Tools with Artificial Intelligence. IEEE, 2011: 884-886.
+ * Zhu F, Qu Q, Lo D, et al. Mining top-k large structural patterns in a massive network[J]. Proceedings of the VLDB Endowment, 2011, 4(11): 807-818.
+ * Li Y, Tarlow D, Brockschmidt M, et al. Gated graph sequence neural networks[J]. arXiv preprint arXiv:1511.05493, 2015.
+ * Johnson D D. Learning graphical state transitions[J]. 2016.
 
 * ### NLP-based Source Code Learning
   * #### APIs and Code Mining
