@@ -21,7 +21,14 @@ Table of Contents
 
 * ### Graph-based Source Code Learning
   * #### Code Suggestion and Completion
-    * ddd
+    * Nguyen A T, Nguyen H A, Nguyen T T, et al. GraPacc: A graph-based pattern-oriented, context-sensitive code completion tool[C]//2012 34th International Conference on Software Engineering (ICSE). IEEE, 2012: 1407-1410.
+    * Nguyen A T, Nguyen T T, Nguyen H A, et al. Graph-based pattern-oriented, context-sensitive source code completion[C]//2012 34th International Conference on Software Engineering (ICSE). IEEE, 2012: 69-79.
+    * Proksch S, Lerch J, Mezini M. Intelligent code completion with Bayesian networks[J]. ACM Transactions on Software Engineering and Methodology (TOSEM), 2015, 25(1): 3.
+    * Raychev V, Vechev M, Krause A. Predicting program properties from big code[C]//ACM SIGPLAN Notices. ACM, 2015, 50(1): 111-124.
+    * Pham H V, Vu P M, Nguyen T T. Learning API usages from bytecode: a statistical approach[C]//Proceedings of the 38th International Conference on Software Engineering. ACM, 2016: 416-427.
+    * Allamanis M, Brockschmidt M, Khademi M. Learning to represent programs with graphs[J]. arXiv preprint arXiv:1711.00740, 2017.
+    * Brockschmidt M, Allamanis M, Gaunt A L, et al. Generative code modeling with graphs[J]. arXiv preprint arXiv:1805.08490, 2018.
+    * Buse R P L, Weimer W. Synthesizing API usage examples[C]//Proceedings of the 34th International Conference on Software Engineering. IEEE Press, 2012: 782-792.
   * #### Source Code Analysis and Language Modeling
     * Zhong H, Zhang L, Mei H. Inferring specifications of object oriented APIs from API source code[C]//2008 15th Asia-Pacific Software Engineering Conference. IEEE, 2008: 221-228.
     * Nguyen T T, Nguyen H A, Pham N H, et al. Graph-based mining of multiple object usage patterns[C]//Proceedings of the the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering. ACM, 2009: 383-392.
