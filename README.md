@@ -14,6 +14,7 @@ Table of Contents
     * [Graph-Mining-Technology](#Graph-Mining-Technology)
     * [Survey](#Survey)
     * [NLP-based-Source-Code-Learning](#NLP-based-Source-Code-Learning)
+    * [Deep-Learning-based-Source-Code-Learning](#Deep-Learning-based-Source-Code-Learning)
      
 
 ## Papers
@@ -80,6 +81,11 @@ Table of Contents
   * Nguyen T D, Nguyen A T, Phan H D, et al. Exploring API embedding for API usages and applications[C]//2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE). IEEE, 2017: 438-449.
   * Nguyen A, Rigby P, Nguyen T, et al. Statistical translation of English texts to API code templates[C]//2018 IEEE International Conference on Software Maintenance and Evolution (ICSME). IEEE, 2018: 194-205.
   * Alon U, Zilberstein M, Levy O, et al. code2vec: Learning distributed representations of code[J]. Proceedings of the ACM on Programming Languages, 2019, 3(POPL): 40.
+  * To-be-continued
+  
+* ### Deep-Learning-based Source Code Learning
+  * Raychev V, Vechev M, Yahav E. Code completion with statistical language models[C]//Acm Sigplan Notices. ACM, 2014, 49(6): 419-428.
+  * Rabinovich M, Stern M, Klein D. Abstract syntax networks for code generation and semantic parsing[J]. arXiv preprint arXiv:1704.07535, 2017.
   * To-be-continued
 
 * ### Source Code Learning
