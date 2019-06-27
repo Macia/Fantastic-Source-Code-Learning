@@ -10,6 +10,7 @@ Table of Contents
       * [Code-Suggestion-and-Completion](#Code-Suggestion-and-Completion)
       * [Source-Code-Analysis-and-Language-Modeling](#Source-Code-Analysis-and-Language-Modeling)
       * [API-Navigation](#API-Navigation)
+      * [Others](#Others)
     * [Graph-Mining-Collection](#Graph-Mining-Collection)
       * [Program-Synthesis-and-Induction](#Program-Synthesis-and-Induction)
 
@@ -46,7 +47,12 @@ Table of Contents
     * Thummalapenta S, Xie T. Parseweb: a programmer assistant for reusing open source code on the web[C]//Proceedings of the twenty-second IEEE/ACM international conference on Automated software engineering. ACM, 2007: 204-213.
     * Lv C, Jiang W, Liu Y, et al. APISynth: a new graph-based API recommender system[C]//ICSE Companion. 2014: 596-597.
   * #### Others
-    * ddd
+    * Chang R Y, Podgurski A, Yang J. Discovering neglected conditions in software by mining dependence graphs[J]. IEEE Transactions on Software Engineering, 2008, 34(5): 579-596.
+    * Nguyen H A, Nguyen T T, Pham N H, et al. Accurate and efficient structural characteristic feature extraction for clone detection[C]//International Conference on Fundamental Approaches to Software Engineering. Springer, Berlin, Heidelberg, 2009: 440-455.
+    * Nguyen H A, Nguyen T T, Wilson Jr G, et al. A graph-based approach to API usage adaptation[J]. ACM Sigplan Notices, 2010, 45(10): 302-321.
+    * Wang X, Lo D, Cheng J, et al. Matching dependence-related queries in the system dependence graph[C]//Proceedings of the IEEE/ACM international conference on Automated software engineering. ACM, 2010: 457-466.
+    * Sun C, Khoo S C, Zhang S J. Graph-based detection of library API imitations[C]//2011 27th IEEE International Conference on Software Maintenance (ICSM). IEEE, 2011: 183-192.
+    * Wang S, Lo D, Jiang L. Autoquery: automatic construction of dependency queries for code search[J]. Automated Software Engineering, 2016, 23(3): 393-425.
 
 * ### NLP-based Source Code Learning
   * #### APIs and Code Mining
