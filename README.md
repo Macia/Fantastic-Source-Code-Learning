@@ -21,8 +21,15 @@ Table of Contents
 ## Papers
 * ### API Learning Obstacles
   * Ko A J, Myers B A, Aung H H. Six learning barriers in end-user programming systems[C]//2004 IEEE Symposium on Visual Languages-Human Centric Computing. IEEE, 2004: 199-206.
+  * Ko A J, Myers B A, Coblenz M J, et al. An Exploratory Study of How Developers Seek, Relate, and Collect Relevant Information during Software Maintenance Tasks[J]. IEEE Transactions on Software Engineering, 2006, 32(12):971-987.
   * Robillard M P. What makes APIs hard to learn? Answers from developers[J]. IEEE software, 2009, 26(6): 27-34.
   * Robillard M P, Deline R. A field study of API learning obstacles[J]. Empirical Software Engineering, 2011, 16(6): 703-732.
+  * Scaffidi C. Why are APIs difficult to learn and use?[J]. Crossroads Crossroads Homepage, 2006, 12(4):4-4.
+  * Duala-Ekoko E, Robillard M P. Asking and answering questions about unfamiliar APIs: An exploratory study[J]. 2012:266-276.
+  * Zibran, Minhaz F. What Makes APIs Difficult to Use?[J]. International Journal of Computer Science & Network Security, 2008, 8(4):255-261.
+  * Uddin G, Dagenais B, Robillard M P. Temporal analysis of API usage concepts[C]// International Conference on Software Engineering. IEEE Press, 2012:804-814.
+  * Acharya M, Xie T, Pei J, et al. Mining API patterns as partial orders from source code: from usage scenarios to specifications[C]// The, Joint Meeting of the European Software Engineering Conference and the ACM Sigsoft Symposium on the Foundations of Software Engineering. ACM, 2007:25-34.
+  * Wang L, Zou Y, Fang L, et al. An Exploratory Study of API Usage Examples on the Web[C]// Asia-Pacific Software Engineering Conference. 2012:396-405.
 
 * ### Graph-based Source Code Learning
   * #### Code Suggestion and Completion
