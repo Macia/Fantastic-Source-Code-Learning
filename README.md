@@ -84,6 +84,7 @@ Table of Contents
   * Gasparic M, Janes A. What recommendation systems for software engineering recommend: A systematic literature review[J]. Journal of Systems and Software, 2016, 113: 101-113.
   * Nguyen A T. Exploring regularities in software with statistical models and their applications[J]. 2016.
   * Allamanis M, Barr E T, Devanbu P, et al. A survey of machine learning for big code and naturalness[J]. ACM Computing Surveys (CSUR), 2018, 51(4): 81.
+  * Proksch S, Bauer V, Murphy G C. How to build a recommendation system for software engineering[M]//Software Engineering. Springer, Cham, 2013: 1-42.
 
 * ### NLP-based Source Code Learning
   * Nguyen T D, Nguyen A T, Phan H D, et al. Exploring API embedding for API usages and applications[C]//2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE). IEEE, 2017: 438-449.
